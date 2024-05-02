@@ -133,7 +133,7 @@ a{
     color: #0c264a;
 }
 
-.resume-link:visited{
+#resume-link:visited{
     color: #0c264a;
 }
 
@@ -141,7 +141,7 @@ a{
     color: #da9c96;
 }
 
-.resume-link:hover{
+#resume-link:hover{
     color: #da9c96;
 }
 
@@ -149,7 +149,7 @@ a{
     color: #170f81;
 }
 
-.resume-link{
+#resume-link{
     color: #170f81;
 }
 
@@ -157,7 +157,7 @@ a{
     color:#203b61;
 }
 
-.resume-link{
+#resume-link{
     color:#203b61;
 }
 
