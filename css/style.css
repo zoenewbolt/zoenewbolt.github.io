@@ -133,7 +133,9 @@ a{
     color: #0c264a;
 }
 
-#resume-link:visited{
+.phone-link:visited,
+.email-link:visited,
+.linkedin-link:visited{
     color: #0c264a;
 }
 
@@ -141,7 +143,9 @@ a{
     color: #da9c96;
 }
 
-#resume-link:hover{
+.phone-link:hover,
+.email-link:hover,
+.linkedin-link:hover{
     color: #da9c96;
 }
 
@@ -149,7 +153,9 @@ a{
     color: #170f81;
 }
 
-#resume-link{
+.phone-link:active,
+.email-link:active,
+.linkedin-link:active{
     color: #170f81;
 }
 
@@ -157,7 +163,9 @@ a{
     color:#203b61;
 }
 
-#resume-link{
+.phone-link:link,
+.email-link:link,
+.linkedin-link:link{
     color:#203b61;
 }
 
