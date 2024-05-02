@@ -133,8 +133,14 @@ a{
     color: #0c264a;
 }
 
-.phone-link:visited,
-.email-link:visited,
+.phone-link:visited{
+    color: #0c264a;
+}
+
+.email-link:visited{
+    color: #0c264a;
+}
+
 .linkedin-link:visited{
     color: #0c264a;
 }
@@ -143,8 +149,14 @@ a{
     color: #da9c96;
 }
 
-.phone-link:hover,
-.email-link:hover,
+.phone-link:hover{
+    color: #da9c96;
+}
+
+.email-link:hover{
+    color: #da9c96;
+}
+
 .linkedin-link:hover{
     color: #da9c96;
 }
@@ -153,8 +165,14 @@ a{
     color: #170f81;
 }
 
-.phone-link:active,
-.email-link:active,
+.phone-link:active{
+    color: #170f81;
+}
+
+.email-link:active{
+    color: #170f81;
+}
+
 .linkedin-link:active{
     color: #170f81;
 }
@@ -163,8 +181,14 @@ a{
     color:#203b61;
 }
 
-.phone-link:link,
-.email-link:link,
+.phone-link:link{
+    color:#203b61;
+}
+
+.email-link:link{
+    color:#203b61;
+}
+
 .linkedin-link:link{
     color:#203b61;
 }
