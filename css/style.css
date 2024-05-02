@@ -108,7 +108,7 @@ li{
 /* link states */
 
 a:link {
-    color: #aec0f0;
+    color: #c0cff8;
 }
 
 a:visited {
@@ -154,11 +154,11 @@ a{
 }
 
 .work-link:link{
-    color:#1a3a67;
+    color:#203b61;
 }
 
 .resume-link{
-    color:#1a3a67;
+    color:#203b61;
 }
 
 
